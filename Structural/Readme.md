@@ -1,0 +1,2 @@
+# Structural Design Patterns
+These patterns are concerned with the relationship between entities. They deal with the composition of a class and object, meaning that a particular object will be used in another class, making new functionalities available. Don’t forget that this relationship has something to do with Inheritance where a class inherits the members of an existing class. The two main words here are composition and inheritance.
