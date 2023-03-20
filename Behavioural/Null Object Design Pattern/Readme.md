@@ -1,0 +1,1 @@
+This pattern helps us avoid returning a null value in our code. To be clear, this pattern encapsulates the behavior of null and returns the desired result expected by the client
