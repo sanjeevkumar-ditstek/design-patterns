@@ -1,2 +1,3 @@
-# Behavioural Design Patterns
-These patterns are most focused on communication between objects. They provide the solution for the developer to have decoupled and flexible code where they can make objects communicate with each other.
+# Creational Design Patterns
+This pattern mainly deals with object creation. 
+They deal with the idea of creating specific objects for a specific use-case and then hiding the creation logic or class implementation from us. They are just exposing interfaces to us.
